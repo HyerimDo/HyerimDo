@@ -7,4 +7,4 @@
 <div align=center>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hyerimdo95@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/Instagram-965CA1?style=flat&logo=Instagram&logoColor=white)](mailto:https://www.instagram.com/do_limmil_ob/)
+[![Gmail Badge](https://img.shields.io/badge/Instagram-965CA1?style=flat&logo=Instagram&logoColor=white)](mailto:https://instagram.com/do_limmil_ob/)
