@@ -11,4 +11,15 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/do_limmil_ob/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<a>
+	
+	
+:star2: Projects
+| **Title** |**Organization**|**Date**|
+|------------|---|---|
+|담수생물자원 조사 및 발굴사업|국립낙동강생물자원관|Feb. 2015 ~ Nov. 2015|
+|국내 자생생물 발굴 및 조사|국립생물자원관|Nov. 2015 ~ Apr. 2016|
+|아메바의 다양성, 분포 및 진화적 관계의 특성화|한국연구재단|Nov. 2015 ~ Oct.2016|
+|호염성 원생동물의 다양성과 고염분 적응기작|한국연구재단|Mar. 2019 ~ Feb. 2021|
+|해양생물 마이크로바이옴 분석과 적용 연구를 통한 마린바이오틱스 개발|해양수산부|Apr. 2021 ~ Present|
+|해양바이오 기반 청정 기능성 산업소재 대량생산 기술 개발|한국해양과학기술원|Mar. 2021 ~ Present|
