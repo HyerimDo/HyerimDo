@@ -6,11 +6,11 @@ dlfjfds
 
 ![밤하늘](https://user-images.githubusercontent.com/99399643/153429571-f07ce19b-3410-4e1e-ae69-f61c65d7a840.gif)
 
-# "Don't dream it, be it"
+# "𝒟𝑜𝓃'𝓉 𝒹𝓇𝑒𝒶𝓂 𝒾𝓉, 𝒷𝑒 𝒾𝓉"
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyerimDo&count_bg=%23E9E3DA&title_bg=%23284362&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
-## :seedling: Research Interests :seedling:
+## :seedling: 𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘐𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘴 :seedling:
 :computer: Bioinformatics
 	
 :earth_asia: Ecology
@@ -32,7 +32,7 @@ dlfjfds
 	
 <div align=left>
 	
-## :star2: Projects
+## :star2: 𝘗𝘳𝘰𝘫𝘦𝘤𝘵𝘴
 | **Title** |**Organization**|**Date**|
 |------------|---|---------------|
 |담수생물자원 조사 및 발굴사업|국립낙동강생물자원관|Feb. 2015 ~ Nov. 2015|
@@ -45,4 +45,4 @@ dlfjfds
 	
 <div align=center>
 	
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![HyerimDo GitHub stats](https://github-readme-stats.vercel.app/api?username=HyerimDo)](https://github.com/anuraghazra/github-readme-stats)
