@@ -1,9 +1,10 @@
 <div align="center">
+	
 Hello, I'm HyeRim :wave:
 
+이미지 넣을 거
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=93afdc&height=300&section=header&text=Hyerim%20Do&fontSize=90)
-
+	
 # "Don't dream it, be it"
 
 
