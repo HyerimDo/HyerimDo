@@ -8,5 +8,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hyerimdo95@gmail.com)
 <a href="https://www.instagram.com/do_limmil_ob/">
-[![Gmail Badge](https://img.shields.io/badge/Instagram-965CA1?style=flat&logo=Instagram&logoColor=white)](mailto:https://www.instagram.com/do_limmil_ob/)
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/do_limmil_ob/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
