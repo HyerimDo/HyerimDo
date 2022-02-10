@@ -6,10 +6,19 @@ Hello, I'm HyeRim :wave:
 
 # "Don't dream it, be it"
 
-
-안녕
+## :seedling: Research Interests :seedling:
+:computer: Bioinformatics
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyerimDo&count_bg=%23E9E3DA&title_bg=%23284362&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+:earth_asia: Ecology
+	
+:pill: Human therapeutics
+	
+:traffic_light: Metabolism
+	
+:microscope: Microbiome
+	
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyerimDo&count_bg=%23E9E3DA&title_bg=%23284362&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hyerimdo95@gmail.com)
 <a href="https://www.instagram.com/do_limmil_ob/">
