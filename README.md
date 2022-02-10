@@ -2,9 +2,8 @@
 	
 Hello, I'm HyeRim :wave:
 
-이미지 넣을 거
+![밤하늘](https://user-images.githubusercontent.com/99399643/153429571-f07ce19b-3410-4e1e-ae69-f61c65d7a840.gif)
 
-	
 # "Don't dream it, be it"
 
 
