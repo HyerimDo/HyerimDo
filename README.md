@@ -29,9 +29,13 @@ I am interested in data science
 <div align=center>
 	
 ## :mag_right: Tech Stack :mag:
-	
-<div align=left>
-	
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe Photoshop-8B89CC?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
+<br>
+
 <div align=center>
+<br>
 	
 [![HyerimDo GitHub stats](https://github-readme-stats.vercel.app/api?username=HyerimDo)](https://github.com/anuraghazra/github-readme-stats)
