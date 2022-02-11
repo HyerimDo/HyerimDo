@@ -2,7 +2,7 @@
 	
 Hello, I'm HyeRim :wave:
 
-dlfjfds
+I am interested in data science
 
 ![밤하늘](https://user-images.githubusercontent.com/99399643/153429571-f07ce19b-3410-4e1e-ae69-f61c65d7a840.gif)
 
@@ -28,7 +28,7 @@ dlfjfds
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <div align=center>
 	
-## :seedling: Research Interests :seedling:
+## :mag_right: Tech Stack :mag:
 	
 <div align=left>
 	
